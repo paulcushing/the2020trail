@@ -6,10 +6,6 @@
 
 A re-imagining of the original Oregon Trail game as a trip through 2020. Users will travel encountering rests and riots along the way. Shop and rest to replenish supplies. Party members may perish on the journey, but as long as at least one survives to 2021, the user will win.
 
-To play the game visit:
-
-![TOT Screenshot](/img/screenshot.png)
-
 ## Setup/Installation Instructions
 
 - Clone portfolio respository from:
